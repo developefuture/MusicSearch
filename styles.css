@@ -1,0 +1,27 @@
+body { background: Azure !important; text-align:center; }
+#row{
+	border: 3px solid black;
+	 margin: 0 auto !important;
+     width: 100%; 
+	 background: pink;
+}
+
+#backgroundChange{
+	background-color:lightBlue ;
+	border: 3px solid black;
+	 margin: 0 auto !important;
+     width: 100%; 
+}
+header { padding: 15px; text-align:center; }
+.col{ 
+	padding-left:50%;
+	max-width: 50%;
+	
+}
+form { margin-top: 20px; }
+form, #results { padding: 0 20px; }
+.item { margin-bottom: 25px; }
+.video { width: 100%; }
+
+.btn-primary { background: red !important; border-color: red! important; }
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background: red !important;  border-color: red; }
